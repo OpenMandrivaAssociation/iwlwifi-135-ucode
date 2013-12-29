@@ -1,6 +1,6 @@
 %define name iwlwifi-135-ucode
 %define version 18.168.6.1
-%define release 1
+%define release 2
 
 Summary: Intel PRO/Wireless N 105 microcode
 Name: %{name}
